@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Coved19 Detector</string>
+    <string name="pick_image_first">Please pick image first</string>
+    <string name="click_analyze">Click analyze to get the result</string>
+    <string name="processing">Processing...</string>
+    <string name="you_have_a_healthy_lungs">You have a healthy lungs\n Enjoy Your Life</string>
+</resources>
